@@ -1,6 +1,10 @@
 # Epidemic-modelling
-A team research project on modelling epidemics using cellular automata. 
-A complete project report along with thoeretical basis, working code, simulation examples, simulation analysis can be found in the repo.
+This Repository has 2 parts:
+## 1. Epidemic modeling using cellular automata
+A team project that aims to understand epidemics better using cellular automata.
+A complete project report along with thoeretical basis, working code, simulation examples, simulation analysis can be found in the repo. I worked on the backend code for simulating the cellular automata and managing the evolution across timesteps based on the theory using Python.
 
-## Personal Contirbution
-I worked on the backend code for simulating the cellular automata and managing the evolution across timesteps based on the theory. 
+## 2. Epidemic modeling using networks 
+An individual project under the guidance of Prof. Toby Joseph to try and model epidemics using a novel compartmental model. I worked with Toby sir to develop the equations of the compartmental model. My personal contribution was designing and writing the code for a network based epidemic simulation, so that the compartmental model can be tested against it.
+
+
