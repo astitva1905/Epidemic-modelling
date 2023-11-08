@@ -7,4 +7,6 @@ A complete project report along with thoeretical basis, working code, simulation
 ## 2. Epidemic modeling using networks 
 An individual project under the guidance of Prof. Toby Joseph to try and model epidemics using a novel compartmental model. I worked with Toby sir to develop the equations of the compartmental model. My personal contribution was designing and writing the code for a network based epidemic simulation, so that the compartmental model can be tested against it.
 
+https://colab.research.google.com/drive/1LpnFUPy-JLFfPF2r2TuUH_i-mYWxyt3G#scrollTo=jK6IYgg-eeQB
+
 
