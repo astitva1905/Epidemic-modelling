@@ -1,6 +1,6 @@
 # Epidemic-modelling
 This Repository has 2 parts:
-## 1. Epidemic modeling using cellular automata
+## 1. [Epidemic modeling using cellular automata](https://github.com/astitva1905/Epidemic-modelling/blob/main/Project%20Report%20-%20Modeling%20Epidemics%20Using%20Networks%20(1).pdf)
 A team project that aims to understand epidemics better using cellular automata.
 A complete project report along with thoeretical basis, working code, simulation examples, simulation analysis can be found in the repo. I worked on the backend code for simulating the cellular automata and managing the evolution across timesteps based on the theory using Python.
 
